@@ -3,6 +3,8 @@ This repo contains demo for my talk about service meshes. It is based on [micros
 
 This demo is deployed and tested with `kubernetes 1.16` and `istio 1.5`
 
+*note : tried on `istio 1.4 and later`*
+
 ![Sock Shop app](assets/sock-shop.png)
 ## Content
 - [0. Install istio](#0-install-istio)
